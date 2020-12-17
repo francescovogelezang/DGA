@@ -1,2 +1,3 @@
-# DGA
-Digital Governance Act 
+# Digital Governance Act 
+
+This repository is tracking the legislatie evolution of the proposed Data Governance Act. 
