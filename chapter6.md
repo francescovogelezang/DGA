@@ -8,7 +8,11 @@
 
 (3) The Commission shall chair the meetings of the Board.
 
-(4) The Board shall be assisted by a secretariat provided by the Commission. Article 27 Tasks of the Board The Board shall have the following tasks:
+(4) The Board shall be assisted by a secretariat provided by the Commission. 
+
+### Article 27 Tasks of the Board 
+
+The Board shall have the following tasks:
 
 (a) to advise and assist the Commission in developing a consistent practice of public sector bodies and competent bodies referred to in Article 7 (1) processing requests for the re-use of the categories of data referred to in Article 3 (1);
 
