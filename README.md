@@ -1,4 +1,4 @@
-# Digital Governance Act 
+# Data Governance Act 
 
 This repository is tracking the legislative evolution of the proposed Data Governance Act. 
 
