@@ -2,9 +2,9 @@
 
 ### Article 15 Register of recognised data altruism organisations
 
-(1) Each competent authority designated pursuant to Article 20 shall keep a register of recognised data altruism organisations.
+(1) Each competent authority designated pursuant to Article 20 shall keep a public register of recognised data altruism organisations.
 
-(2) The Commission shall maintain a Union register of recognised data altruism organisations.
+(2) The Commission shall maintain a public Union register of recognised data altruism organisations.
 
 (3) An entity registered in the register in accordance with Article 16 may refer to itself as a ‘data altruism organisation recognised in the Union’ in its written and spoken communication.
 
@@ -76,13 +76,15 @@ In order to qualify for registration, the data altruism organisation shall:
 
 ### Article 19 Specific requirements to safeguard rights and interests of data subjects and legal entities as regards their data
 
-(1) Any entity entered in the register of recognised data altruism organisations shall inform data holders:
+(1) Any entity entered in the register of recognised data altruism organisations shall inform data holders prior to any processing of their data:
 
 (a) about the purposes of general interest for which it permits the processing of their data by a data user in an easy-to-understand manner;
 
-(b) about any processing outside the Union.
+(b) about the location of any processing perfomed outside the Union.
 
 (2) The entity shall also ensure that the data is not be used for other purposes than those of general interest for which it permits the processing.
+
+(2a) The entity shall also ensure that consent from data subjects or permissions to process data made available by legal persons can be withdrawn easily and in a user-friendly way by the data subject or legal person.
 
 (3) Where an entity entered in the register of recognised data altruism organisations provides tools for obtaining consent from data subjects or permissions to process data made available by legal persons, it shall specify the jurisdiction or jurisdictions in which the data use is intended to take place.
 
