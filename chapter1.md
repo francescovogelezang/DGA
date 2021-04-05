@@ -59,3 +59,18 @@ For the purpose of this Regulation, the following definitions apply:
 (14) ‘secure processing environment’ means the physical or virtual environment and organisational means to provide the opportunity to re-use data in a manner that allows for the operator of the secure processing environment to determine and supervise all data processing actions, including to display, storage, download, export of the data and calculation of derivative data through computational algorithms.
 
 (15) ‘representative’ means any natural or legal person established in the Union explicitly designated to act on behalf of a data intermediary or an entity that collects data for objectives of general interest made available by natural or legal persons on the basis of data altruism not established in the Union, which may be addressed by a national competent authority instead of the data intermediary or entity with regard to the obligations of that data intermediary or entity set up by this Regulation.
+
+(15a) ‘data intermediary’ means a provider of data sharing services with the main objective of establishing a business, a legal and potentially also technical relation between an indefinite number of data holders, including data subjects and an indefinite number of potential data users and which assists both parties in a transaction of data assets between the two.
+The following providers shall, inter alia, not be considered to be data intermediaries for the purposes of this Regulation:
+
+(a) providers conducting activities which aggregate, enrich or transform data and licence the use of the resulting data to data users, without providing data sharing services as referred to in Article 9(1);
+
+(b) the following providers of data- sharing services:
+
+(i) providers of cloud infrastructure services;
+
+(ii) providers of services that focus on the intermediation of content, in particular on copyright-protected content;
+
+(iii) data exchange platforms that are exclusively used by one data holder in order to enable the use of data they hold as well as platforms developed in the context of objects and devices connected to the Internet-of-Things with the main objective of ensuring functionalities of the connected object or device and allow value added services;
+
+(iv) consolidated tape providers as defined in point (53) of Article 4(1) of Directive 2014/65/EU and account information service providers as defined in point 19 of Article 4 of Directive(EU) 2015/2366;
