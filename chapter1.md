@@ -10,7 +10,9 @@
 
 (c) a framework for voluntary registration of entities which collect and process data made available for altruistic purposes.
 
-(2) This Regulation is without prejudice to specific provisions in other Union legal acts regarding access to or re-use of certain categories of data, or requirements related to processing of personal or non-personal data. Where a sector-specific Union legal act requires public sector bodies, providers of data sharing services or registered entities providing data altruism services to comply with specific additional technical, administrative or organisational requirements, including through an authorisation or certification regime, those provisions of that sector-specific Union legal act shall also apply.
+(ca) a framework for the establishment of a European data innovation board.
+
+(2) This Regulation is without prejudice to specific provisions in other Union legal acts regarding access to or re-use of certain categories of data, or requirements related to processing of personal or non-personal data. Where a sector-specific Union legal act requires public sector bodies, data intermediaries or registered entities providing data altruism services to comply with specific additional technical, administrative or organisational requirements, including through an authorisation or certification regime, those provisions of that sector-specific Union legal act shall also apply.
 
 ### Article 2 Definitions
 
@@ -56,4 +58,4 @@ For the purpose of this Regulation, the following definitions apply:
 
 (14) ‘secure processing environment’ means the physical or virtual environment and organisational means to provide the opportunity to re-use data in a manner that allows for the operator of the secure processing environment to determine and supervise all data processing actions, including to display, storage, download, export of the data and calculation of derivative data through computational algorithms.
 
-(15) ‘representative’ means any natural or legal person established in the Union explicitly designated to act on behalf of a provider of data sharing services or an entity that collects data for objectives of general interest made available by natural or legal persons on the basis of data altruism not established in the Union, which may be addressed by a national competent authority instead of the provider of data sharing services or entity with regard to the obligations of that provider of data sharing services or entity set up by this Regulation.
+(15) ‘representative’ means any natural or legal person established in the Union explicitly designated to act on behalf of a data intermediary or an entity that collects data for objectives of general interest made available by natural or legal persons on the basis of data altruism not established in the Union, which may be addressed by a national competent authority instead of the data intermediary or entity with regard to the obligations of that data intermediary or entity set up by this Regulation.
