@@ -74,3 +74,5 @@ The following providers shall, inter alia, not be considered to be data intermed
 (iii) data exchange platforms that are exclusively used by one data holder in order to enable the use of data they hold as well as platforms developed in the context of objects and devices connected to the Internet-of-Things with the main objective of ensuring functionalities of the connected object or device and allow value added services;
 
 (iv) consolidated tape providers as defined in point (53) of Article 4(1) of Directive 2014/65/EU and account information service providers as defined in point 19 of Article 4 of Directive(EU) 2015/2366;
+
+(15b) ‘services of data cooperative’ means services that support data subjects, one-person companies or micro, small and medium-sized enterprises, who are members of the cooperative or who confer power on the cooperative to negotiate terms and conditions for data processing before they consent, in making informed choices before consenting to data processing, and allowing for mechanisms to exchange views on data processing purposes and conditions that would best represent the interests of data subjects or legal persons.
