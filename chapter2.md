@@ -18,7 +18,9 @@
 
 (b) data held by public service broadcasters and their subsidiaries, and by other bodies or their subsidiaries for the fulfilment of a public service broadcasting remit;
 
-(c) data held by cultural establishments and educational establishments;
+(c) data held by cultural establishments and protected by intellectual property of third parties;
+
+(ca) data held by educational establishments;
 
 (d)  data protected for reasons of national security , defence or public security;
 
