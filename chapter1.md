@@ -8,9 +8,15 @@
 
 (b) a notification and supervisory framework for the provision of data sharing services;
 
-(c) a framework for voluntary registration of entities which collect and process data made available for altruistic purposes.
+(c) a framework for voluntary registration of entities which collect and process data made available for altruistic purposes;
 
-(2) This Regulation is without prejudice to specific provisions in other Union legal acts regarding access to or re-use of certain categories of data, or requirements related to processing of personal or non-personal data. Where a sector-specific Union legal act requires public sector bodies, providers of data sharing services or registered entities providing data altruism services to comply with specific additional technical, administrative or organisational requirements, including through an authorisation or certification regime, those provisions of that sector-specific Union legal act shall also apply.
+(d) a framework for the establishment of a European data innovation board.
+
+(2) This Regulation is without prejudice to specific provisions in other Union legal acts regarding access to or re-use of certain categories of data, or requirements related to processing of personal or non-personal data. Where a sector-specific Union legal act requires public sector bodies, data intermediaries or registered entities providing data altruism services to comply with specific additional technical, administrative or organisational requirements, including through an authorisation or certification regime, those provisions of that sector-specific Union legal act shall also apply.
+
+(a) This Regulation is without prejudice to Regulation (EU) 2016/679 of the European Parliament and of the Council, to Directive 2002/58/EC of the European Parliament and of the Council and Directive (EU) 2016/680 of the European Parliament and of the Council1a. Where personal and non-personal data in a data set are inextricably linked, this Regulation shall not prejudice the application of Regulation (EU) 2016/679.[1] This Regulation does not create legal basis for the processing of personal data outside of the provisions already laid in Regulation(EU) 2016/679 and Directive 2002/58/EC
+
+1a Directive (EU) 2016/680 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data by competent authorities for the purposes of the prevention, investigation, detection or prosecution of criminal offences or the execution of criminal penalties, and on the free movement of such data, and repealing Council Framework Decision 2008/977/JHA. (OJ L 119, 4.5.2016, p. 89)
 
 ### Article 2 Definitions
 
@@ -54,6 +60,6 @@ For the purpose of this Regulation, the following definitions apply:
 
 (c)  can appoint more than half of the undertaking’s administrative, management or supervisory body;
 
-(14) ‘secure processing environment’ means the physical or virtual environment and organisational means to provide the opportunity to re-use data in a manner that allows for the operator of the secure processing environment to determine and supervise all data processing actions, including to display, storage, download, export of the data and calculation of derivative data through computational algorithms.
+(14) ‘secure processing environment’ means the physical or virtual environment and organisational means to provide the opportunity to re-use data in a manner ensuring compliance with applicable legislation that allows for the operator of the secure processing environment to determine and supervise all data processing actions, including to display, storage, download, export of the data and calculation of derivative data through computational algorithms.
 
 (15) ‘representative’ means any natural or legal person established in the Union explicitly designated to act on behalf of a provider of data sharing services or an entity that collects data for objectives of general interest made available by natural or legal persons on the basis of data altruism not established in the Union, which may be addressed by a national competent authority instead of the provider of data sharing services or entity with regard to the obligations of that provider of data sharing services or entity set up by this Regulation.
