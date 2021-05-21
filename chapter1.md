@@ -40,7 +40,7 @@ For the purpose of this Regulation, the following definitions apply:
 
 (9)‘main establishment’ of a legal entity means the place of its central administration in the Union;
 
-(10)‘data altruism’ means the consent by data subjects to process personal data pertaining to them, or permissions of other data holders to allow the use of their non-personal data without seeking a reward, for purposes of general interest, such as scientific research purposes or improving public services;
+(10)‘data altruism’ means voluntary sharing of data by data subjects to process personal data pertaining to them, or permissions of other data holders to allow the use of their non-personal data without seeking or receiving a reward, for purposes of general interest, such as scientific research purposes, policy making or improving public services;
 
 (11)‘public sector body’ means the State, regional or local authorities, bodies governed by public law or associations formed by one or more such authorities or one or more such bodies governed by public law;
 
@@ -62,4 +62,22 @@ For the purpose of this Regulation, the following definitions apply:
 
 (14) ‘secure processing environment’ means the physical or virtual environment and organisational means to provide the opportunity to re-use data in a manner ensuring compliance with applicable legislation that allows for the operator of the secure processing environment to determine and supervise all data processing actions, including to display, storage, download, export of the data and calculation of derivative data through computational algorithms.
 
-(15) ‘representative’ means any natural or legal person established in the Union explicitly designated to act on behalf of a provider of data sharing services or an entity that collects data for objectives of general interest made available by natural or legal persons on the basis of data altruism not established in the Union, which may be addressed by a national competent authority instead of the provider of data sharing services or entity with regard to the obligations of that provider of data sharing services or entity set up by this Regulation.
+(15) ‘representative’ means any natural or legal person established in the Union explicitly designated to act on behalf of a data intermediary or an entity that collects data for objectives of general interest made available by natural or legal persons on the basis of data altruism not established in the Union, which may be addressed by a national competent authority instead of the data intermediary or entity with regard to the obligations of that data intermediary or entity set up by this Regulation.
+
+(16)‘data intermediary’ means a provider of data sharing services with the main objective of establishing a business, a legal and potentially also technical relation between an indefinite number of data holders, including data subjects and an indefinite number of potential data users and which assists both parties in a transaction of data assets between the two.
+
+The following providers shall, inter alia, not be considered to be data intermediaries for the purposes of this Regulation:
+
+(a) providers conducting activities which aggregate, enrich or transform data and licence the use of the resulting data to data users, without providing data sharing services as referred to in Article 9(1);
+
+(b) the following providers of data-sharing services:
+
+(i) providers of cloud infrastructure services;
+
+(ii) providers of services that focus on the intermediation of content, in particular on copyright-protected content;
+
+(iii) data exchange platforms that are exclusively used by one data holder in order to enable the use of data they hold as well as platforms developed in the context of objects and devices connected to the Internet-of-Things with the main objective of ensuring functionalities of the connected object or device and allow value added services;
+
+(iv) consolidated tape providers as defined in point (53) of Article 4(1) of Directive 2014/65/EU and account information service providers as defined in point 19 of Article 4  of Directive(EU) 2015/2366;
+
+(17) ‘services of data cooperative’ means services that support data subjects, one-person companies or micro, small and medium-sized enterprises, who are members of the cooperative or who confer power on the cooperative to negotiate terms and conditions for data processing before they consent, in making informed choices before consenting to data processing, and allowing for mechanisms to exchange views on data processing purposes and conditions that would best represent the interests of data subjects or legal persons.
