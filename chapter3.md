@@ -129,3 +129,9 @@ This Chapter shall not apply to:
 (a) public sector bodies that offer data sharing facilities on a non-commercial basis;
 
 (b) not-for-profit entities whose activities consist only in seeking to collect data for objectives of general interest, made available by natural or legal persons on the basis of data altruism.
+
+### Article 15 Policies for data altruism in Member States
+
+(1) Member States shall define polices for data altruism and shall put in place organisational or technical arrangements, in particular to provide secure processing environments that can be made available to General Interest Data Hubs by the public sector to allow supervision, to ensure the protection of personal data and confidentiality, and to further facilitate data altruism. These policies shall in particular support data subjects in making meaningful use of their data subjects’ rights, and in making personal data related to them held by public sector bodies available voluntarily for data altruism.
+
+(2) The European Data Innovation Board shall advise and assist in developing a consistent practice with regard to data altruism throughout the Union.
