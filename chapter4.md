@@ -84,9 +84,9 @@ In order to qualify for registration, the data altruism organisation shall:
 
 (2) The entity shall also ensure that the data is not be used for other purposes than those of general interest for which it permits the processing.
 
-(3) The entity shall also ensure that consent from data subjects or permissions to process data made available by legal persons can be withdrawn easily and in a user-friendly way by the data subject or legal person.
+(2a) The entity shall also ensure that consent from data subjects or permissions to process data made available by legal persons can be withdrawn easily and in a user-friendly way by the data subject or legal person.
 
-(4) Where an entity entered in the register of recognised data altruism organisations provides tools for obtaining consent from data subjects or permissions to process data made available by legal persons, it shall specify the jurisdiction or jurisdictions in which the data use is intended to take place.
+(3) Where an entity entered in the register of recognised data altruism organisations provides tools for obtaining consent from data subjects or permissions to process data made available by legal persons, it shall specify the jurisdiction or jurisdictions in which the data use is intended to take place.
 
 ### Article 20 Competent authorities for registration of data altruism organisations
 
