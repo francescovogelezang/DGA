@@ -10,11 +10,11 @@
 
 (c) a framework for voluntary registration of entities which collect and process data made available for altruistic purposes;
 
-(d) a framework for the establishment of a European data innovation board.
+(ca) a framework for the establishment of a European data innovation board.
 
 (2) This Regulation is without prejudice to specific provisions in other Union legal acts regarding access to or re-use of certain categories of data, or requirements related to processing of personal or non-personal data. Where a sector-specific Union legal act requires public sector bodies, data intermediaries or registered entities providing data altruism services to comply with specific additional technical, administrative or organisational requirements, including through an authorisation or certification regime, those provisions of that sector-specific Union legal act shall also apply.
 
-(a) This Regulation is without prejudice to Regulation (EU) 2016/679 of the European Parliament and of the Council, to Directive 2002/58/EC of the European Parliament and of the Council and Directive (EU) 2016/680 of the European Parliament and of the Council1a. Where personal and non-personal data in a data set are inextricably linked, this Regulation shall not prejudice the application of Regulation (EU) 2016/679.[1] This Regulation does not create legal basis for the processing of personal data outside of the provisions already laid in Regulation(EU) 2016/679 and Directive 2002/58/EC
+(2a) This Regulation is without prejudice to Regulation (EU) 2016/679 of the European Parliament and of the Council, to Directive 2002/58/EC of the European Parliament and of the Council and Directive (EU) 2016/680 of the European Parliament and of the Council1a. Where personal and non-personal data in a data set are inextricably linked, this Regulation shall not prejudice the application of Regulation (EU) 2016/679.[1] This Regulation does not create legal basis for the processing of personal data outside of the provisions already laid in Regulation(EU) 2016/679 and Directive 2002/58/EC
 
 1a Directive (EU) 2016/680 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data by competent authorities for the purposes of the prevention, investigation, detection or prosecution of criminal offences or the execution of criminal penalties, and on the free movement of such data, and repealing Council Framework Decision 2008/977/JHA. (OJ L 119, 4.5.2016, p. 89)
 
@@ -64,7 +64,7 @@ For the purpose of this Regulation, the following definitions apply:
 
 (15) ‘representative’ means any natural or legal person established in the Union explicitly designated to act on behalf of a data intermediary or an entity that collects data for objectives of general interest made available by natural or legal persons on the basis of data altruism not established in the Union, which may be addressed by a national competent authority instead of the data intermediary or entity with regard to the obligations of that data intermediary or entity set up by this Regulation.
 
-(16)‘data intermediary’ means a provider of data sharing services with the main objective of establishing a business, a legal and potentially also technical relation between an indefinite number of data holders, including data subjects and an indefinite number of potential data users and which assists both parties in a transaction of data assets between the two.
+(15a)‘data intermediary’ means a provider of data sharing services with the main objective of establishing a business, a legal and potentially also technical relation between an indefinite number of data holders, including data subjects and an indefinite number of potential data users and which assists both parties in a transaction of data assets between the two.
 
 The following providers shall, inter alia, not be considered to be data intermediaries for the purposes of this Regulation:
 
@@ -80,4 +80,4 @@ The following providers shall, inter alia, not be considered to be data intermed
 
 (iv) consolidated tape providers as defined in point (53) of Article 4(1) of Directive 2014/65/EU and account information service providers as defined in point 19 of Article 4  of Directive(EU) 2015/2366;
 
-(17) ‘services of data cooperative’ means services that support data subjects, one-person companies or micro, small and medium-sized enterprises, who are members of the cooperative or who confer power on the cooperative to negotiate terms and conditions for data processing before they consent, in making informed choices before consenting to data processing, and allowing for mechanisms to exchange views on data processing purposes and conditions that would best represent the interests of data subjects or legal persons.
+(15b) ‘services of data cooperative’ means services that support data subjects, one-person companies or micro, small and medium-sized enterprises, who are members of the cooperative or who confer power on the cooperative to negotiate terms and conditions for data processing before they consent, in making informed choices before consenting to data processing, and allowing for mechanisms to exchange views on data processing purposes and conditions that would best represent the interests of data subjects or legal persons.
