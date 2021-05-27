@@ -20,11 +20,11 @@
 
 (c) data held by cultural establishments and protected by copyright or IPRs;
 
-(d) data held by educational establishments;
+(ca) data held by educational establishments;
 
-(e)  data protected for reasons of national security , defence or public security;
+(d)  data protected for reasons of national security , defence or public security;
 
-(f)  data the supply of which is an activity falling outside the scope of the public task of the public sector bodies concerned as defined by law or by other binding rules in the Member State concerned, or, in the absence of such rules, as defined in accordance with common administrative practice in that Member State, provided that the scope of the public tasks is transparent and subject to review.
+(e)  data the supply of which is an activity falling outside the scope of the public task of the public sector bodies concerned as defined by law or by other binding rules in the Member State concerned, or, in the absence of such rules, as defined in accordance with common administrative practice in that Member State, provided that the scope of the public tasks is transparent and subject to review.
 
 (3) The provisions of this Chapter do not create any obligation on public sector bodies to allow re-use of data nor do they release public sector bodies from their confidentiality obligations. This Chapter is without prejudice to Union and national law or international agreements to which the Union or Member States are parties on the protection of categories of data provided in paragraph 1. This Chapter is without prejudice to Union and national law on access to documents and to obligations of public sector bodies under Union and national law to allow the re-use of data.
 
@@ -44,7 +44,7 @@
 
 (7) Agreements or other practices falling within the scope of the prohibition in paragraph 1, which do not meet the conditions set out in paragraph 2, and which were concluded before the date of entry into force of this Regulation shall be terminated at the end of the contract and in any event at the latest within two years after the date of entry into force of this Regulation.
 
-(8) Where an exclusive right to re-use data does not meet the conditions set out in paragraphs 2, 3 and 4, the exclusive right shall be void.
+(7a) Where an exclusive right to re-use data does not meet the conditions set out in paragraphs 2, 3 and 4, the exclusive right shall be void.
 
 ### Article 5 Conditions for re-use
 
@@ -108,23 +108,23 @@ To this end, public sector bodies may set up a list of categories of re-users fo
 
 (a) providing technical support by making available a secure processing environment for providing access for the re-use of data;
 
-(b) providing guidance and technical support on how to best structure and store data to make data easily accessible, in particular through application programming interfaces, as well as interoperable, transferable and searchable, taking into account best practices for data processing;
+(aa) providing guidance and technical support on how to best structure and store data to make data easily accessible, in particular through application programming interfaces, as well as interoperable, transferable and searchable, taking into account best practices for data processing;
 
-(c)  providing technical support ensuring data processing in a manner that preserves privacy of the information contained in the data for which re-use is allowed, including techniques for pseudonymisation, anonymisation, generalisation, suppression and randomisation of personal data or other state-of-the-art privacy preserving methods, and the deletion of commercially confidential information, including trade secrets or content protected by Intellectual Property Rights;;
+(b)  providing technical support ensuring data processing in a manner that preserves privacy of the information contained in the data for which re-use is allowed, including techniques for pseudonymisation, anonymisation, generalisation, suppression and randomisation of personal data or other state-of-the-art privacy preserving methods, and the deletion of commercially confidential information, including trade secrets or content protected by Intellectual Property Rights;;
 
-(d)  assisting the public sector bodies, where relevant, in obtaining consent or permission by re-users for re-use for altruistic and other purposes in line with specific decisions of data holders, including on the jurisdiction or jurisdictions in which the data processing is intended to take place and assisting the public sector bodies in establishing technical mechanisms that allow transmitting requests for consent from re-users, where that is practically feasible;
+(c)  assisting the public sector bodies, where relevant, in obtaining consent or permission by re-users for re-use for altruistic and other purposes in line with specific decisions of data holders, including on the jurisdiction or jurisdictions in which the data processing is intended to take place and assisting the public sector bodies in establishing technical mechanisms that allow transmitting requests for consent from re-users, where that is practically feasible;
 
-(e)  providing public sector bodies with assistance on the adequacy of undertakings made by a re-user, pursuant to Article 5 (10).
+(d)  providing public sector bodies with assistance on the adequacy of undertakings made by a re-user, pursuant to Article 5 (10).
 
 (3) The competent bodies may also be entrusted, pursuant Union or national law which provides for such access to be given, to grant access for the re-use of the categories of data referred to in Article 3 (1). While performing their function to grant or refuse access for re-use, Articles 4, 5 and 6 shall apply in regard to such competent bodies.
 
-(4) Requests for the re-use of the categories of data referred to in Article 3(1) shall be granted or refused by the competent public sector bodies or the competent bodies referred to in paragraph 1 of this Article within a reasonable time and in any case within two months of the date of the request. In order to contribute to a consistent application of this Regulation the competent public sector bodies shall cooperate with each other, and where relevant with the Commission, when refusing requests for re-use of the categories of data referred to in Article 3 (1).
+(3a) Requests for the re-use of the categories of data referred to in Article 3(1) shall be granted or refused by the competent public sector bodies or the competent bodies referred to in paragraph 1 of this Article within a reasonable time and in any case within two months of the date of the request. In order to contribute to a consistent application of this Regulation the competent public sector bodies shall cooperate with each other, and where relevant with the Commission, when refusing requests for re-use of the categories of data referred to in Article 3 (1).
 
-(5) Any natural or legal person affected by a decision of a public sector body or of a competent body, as the case may be, shall have the right to an effective judicial remedy against such decision before the courts of the Member State where the relevant body is located.
+(3b) Any natural or legal person affected by a decision of a public sector body or of a competent body, as the case may be, shall have the right to an effective judicial remedy against such decision before the courts of the Member State where the relevant body is located.
 
-(6) The competent body or bodies shall have adequate legal, financial and technical capacities and expertise and shall be sufficiently staffed with skilled personnel to be able to comply with relevant Union or national law concerning the access regimes for the categories of data referred to in Article 3 (1).
+(4) The competent body or bodies shall have adequate legal, financial and technical capacities and expertise and shall be sufficiently staffed with skilled personnel to be able to comply with relevant Union or national law concerning the access regimes for the categories of data referred to in Article 3 (1).
 
-(7) The Member States shall make public and communicate to the Commission the identity of the competent bodies designated pursuant to paragraph 1 by [date of application of this Regulation]. They shall also make public and communicate to the Commission any subsequent modification of the identity of those bodies.
+(5) The Member States shall make public and communicate to the Commission the identity of the competent bodies designated pursuant to paragraph 1 by [date of application of this Regulation]. They shall also make public and communicate to the Commission any subsequent modification of the identity of those bodies.
 
 ### Article 8 Single information point
 
@@ -132,8 +132,8 @@ To this end, public sector bodies may set up a list of categories of re-users fo
 
 (2) The single information point shall receive requests for the re-use of the categories of data referred to in Article 3 (1) and shall transmit them to the competent public sector bodies, or the competent bodies referred to in Article 7 (1), where relevant. The single information point shall make available by electronic means a searchable register of available data resources containing relevant information describing the nature of available data, including at least the data format and size and the conditions for its re-use.
 
-(3) The single information point shall offer an electronic, public register of single information points of all other Member States. 
+(2a) The single information point shall offer an electronic, public register of single information points of all other Member States. 
 
-(4) The single information point may establish a separate, simplified and well-documented information channel for small and medium-sized enterprises (SMEs), addressing their needs and capabilities in requesting the re-use of the categories of data referred to in Article 3 (1).
+(2aa) The single information point may establish a separate, simplified and well-documented information channel for small and medium-sized enterprises (SMEs), addressing their needs and capabilities in requesting the re-use of the categories of data referred to in Article 3 (1).
 
-(5) The Commission shall establish a European single information point offering a searchable electronic register of data available in national single information points and further information on how to request data via those single information points.
+(2b) The Commission shall establish a European single information point offering a searchable electronic register of data available in national single information points and further information on how to request data via those single information points.
