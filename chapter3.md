@@ -12,7 +12,7 @@
 
 (2) This Chapter shall be without prejudice to the application of other Union and national law to data intermediaries, including powers of supervisory authorities to ensure compliance with applicable law, in particular as regard the protection of personal data and competition law.
 
-(3) If the competent authority referred to in Article 12 has confirmed that a data intermediary complies with the requirements laid down in Articles 10 and 11 that data intermediary may refer to itself as a ‘data intermediary recognised in the Union’ in its written and spoken communication.
+(2a) If the competent authority referred to in Article 12 has confirmed that a data intermediary complies with the requirements laid down in Articles 10 and 11 that data intermediary may refer to itself as a ‘data intermediary recognised in the Union’ in its written and spoken communication.
 
 ### Article 10 Notification of data intermediaries
 
@@ -42,15 +42,15 @@
 
 (g) the estimated date for starting the activity, or the date the activity has started;
 
-(h) The competent authority shall ensure that the notification procedure does not impose undue hurdles for small and medium-sized enterprises and organisations and ensures non-discrimination and competition.
+(6a) The competent authority shall ensure that the notification procedure does not impose undue hurdles for small and medium-sized enterprises and organisations and ensures non-discrimination and competition.
 
-(7) At the request of the data intermediary, the competent authority shall, within one week, issue a standardised declaration, confirming that the data intermediary has submitted the notification referred to in paragraph 4 and that the notification meets fully the requirements outlined in paragraph 6.
+(8) At the request of the data intermediary, the competent authority shall, within one week, issue a standardised declaration, confirming that the data intermediary has submitted the notification referred to in paragraph 4 and that the notification meets fully the requirements outlined in paragraph 6.
 
-(8) The competent authority shall notify the Commission of each new notification without delay and the Commission shall forward each notification to the national competent authorities of the Member States by electronic means. The Commission shall keep a public register of all data intermediaries in the Union.
+(9) The competent authority shall notify the Commission of each new notification without delay and the Commission shall forward each notification to the national competent authorities of the Member States by electronic means. The Commission shall keep a public register of all data intermediaries in the Union.
 
-(9) The competent authority may charge fees. Such fees shall be proportionate and objective and be based on the administrative costs related to the monitoring of compliance and other market control activities of the competent authorities in relation to notifications of data sharing services. The competent authority may also charge discounted fees or allow free of charge notification for small and medium-sized enterprises (SMEs).
+(10) The competent authority may charge fees. Such fees shall be proportionate and objective and be based on the administrative costs related to the monitoring of compliance and other market control activities of the competent authorities in relation to notifications of data sharing services. The competent authority may also charge discounted fees or allow free of charge notification for small and medium-sized enterprises (SMEs).
 
-(10) Providers shall submit any changes of the information provided pursuant to paragraph 6 to the competent authority within 14 calendar days from the day on which the change takes place.
+(10a) Providers shall submit any changes of the information provided pursuant to paragraph 6 to the competent authority within 14 calendar days from the day on which the change takes place.
 
 (11) Where a data intermediary ceases its activities, it shall notify the relevant competent authority determined pursuant to paragraphs 1, 2 and 3 within 15 days. The competent authority shall forward without delay each such notification to the national competent authorities in the Member States and to the Commission by electronic means. The Commission without delay shall forward each notification to the national competent authorities of the Member States by electronic means and update the public register.
 
@@ -66,21 +66,23 @@ The provision of data sharing services referred in Article 9 (1) shall be subjec
 
 (4) the data intermediary shall facilitate the exchange of the data in the format in which it receives it from the data holder and shall convert the data into specific formats only to enhance interoperability within and across sectors or if requested by the data user or where mandated by Union law or to ensure harmonisation with international or European data standards;
 
-(5) the data intermediary may offer tools capable of analysis, aggregation, improving the quality or conversion of data to data holders or data users, and those tools shall be used only at the explicit request or approval of the data holder and third-party tools offered in that context shall not use data for purposes other than those requested or approved by the data holder;
+(4a) the data intermediary may offer tools capable of analysis, aggregation, improving the quality or conversion of data to data holders or data users, and those tools shall be used only at the explicit request or approval of the data holder and third-party tools offered in that context shall not use data for purposes other than those requested or approved by the data holder;
 
-(6) the data intermediary shall have procedures in place to prevent and monitor potential fraudulent or abusive practices in relation to access to data from parties seeking access through their services;
+(5) the data intermediary shall have procedures in place to prevent and monitor potential fraudulent or abusive practices in relation to access to data from parties seeking access through their services;
 
-(7) the data intermediary shall ensure a reasonable continuity of provision of its services and, in the case of services which ensure storage of data, shall have sufficient guarantees in place that allow data holders and data users to obtain access to and to retrieve their data in case of insolvency of the provider;
+(6) the data intermediary shall ensure a reasonable continuity of provision of its services and, in the case of services which ensure storage of data, shall have sufficient guarantees in place that allow data holders and data users to obtain access to and to retrieve their data in case of insolvency of the provider;
 
-(8) the data intermediary shall put in place adequate technical, legal and organisational measures in order to prevent transfer or access to non-personal data that is unlawful under Union law;
+(6a) the data intermediary shall avoid lock-in effects and shall ensure interoperability with other data sharing services to the extent technically reasonable, in particular as regards data formats and other data standards;
 
-(9) the data intermediary shall take measures to ensure a high level of security, including state-of-the-art cybersecurity standards, for the storage, processing, and transmission of non-personal data and the intermediary shall further ensure the highest level of security, including state-of-the-art cybersecurity, for the storage and transmission of competitively sensitive information; the data intermediary shall inform the competent authority without delay of any security breach that jeopardises the security of data;
+(7) the data intermediary shall put in place adequate technical, legal and organisational measures in order to prevent transfer or access to non-personal data that is unlawful under Union law;
 
-(10) the data intermediary shall ensure compliance with the Union and national law, in particular rules on competition and data protection;
+(8) the data intermediary shall take measures to ensure a high level of security, including state-of-the-art cybersecurity standards, for the storage, processing, and transmission of non-personal data and the intermediary shall further ensure the highest level of security, including state-of-the-art cybersecurity, for the storage and transmission of competitively sensitive information; the data intermediary shall inform the competent authority without delay of any security breach that jeopardises the security of data;
 
-(11) the data intermediary offering services to data subjects shall act in the data subjects’ best interest when facilitating the exercise of their rights, in particular by advising data subjects on potential data uses and standard terms and conditions attached to such uses;
+(9) the data intermediary shall ensure compliance with the Union and national law, in particular rules on competition and data protection;
 
-(12) where a data intermediary provides tools for obtaining consent from data subjects or permissions to process data made available by legal persons, it shall specify the jurisdiction or jurisdictions in which the data use is intended to take place and and provide to the data subject tools for tracking the use of that data and consent withdrawal..
+(10) the data intermediary offering services to data subjects shall act in the data subjects’ best interest when facilitating the exercise of their rights, in particular by advising data subjects on potential data uses and standard terms and conditions attached to such uses;
+
+(11) where a data intermediary provides tools for obtaining consent from data subjects or permissions to process data made available by legal persons, it shall specify the jurisdiction or jurisdictions in which the data use is intended to take place and and provide to the data subject tools for tracking the use of that data and consent withdrawal.
 
 ### Article 12 Competent authorities
 
@@ -108,7 +110,7 @@ The provision of data sharing services referred in Article 9 (1) shall be subjec
 
 (6) If a data intermediary has its main establishment or legal representative in a Member State, but provides services in other Member States, the competent authority of the Member State of the main establishment or where the legal representative is located and the competent authorities of those other Member States shall cooperate and assist each other. Such assistance and cooperation may cover information exchanges between the competent authorities concerned and requests to take the measures referred to in this Article.
 
-(7) Upon the request of a data intermediary the competent authority shall confirm that the data intermediary complies with the requirements laid down Articles 10 and 11.
+(6a) Upon the request of a data intermediary the competent authority shall confirm that the data intermediary complies with the requirements laid down Articles 10 and 11.
 
 ### Article 14 Exceptions
 
