@@ -1,6 +1,6 @@
 ## CHAPTER IV DATA ALTRUISM
 
-### Article 16 Register of General Interest Data Hubs
+### Article 15 Register of General Interest Data Hubs
 
 (1) Each competent authority for the registration of General Interest Data Hubs designated pursuant to Article 20 shall keep a public register of General Interest Data Hubs.
 
@@ -8,7 +8,7 @@
 
 (3) An entity registered in the register in accordance with Article 16 may refer to itself as a ‘General Interest Data Hub’ in its written and spoken communication.
 
-### Article 17 General Interest Data Hubs
+### Article 16 General requirements for General Interest Data Hubs
 
 In order to qualify for registration as a General Interest Data Hub, an entity shall:
 
@@ -18,25 +18,25 @@ In order to qualify for registration as a General Interest Data Hub, an entity s
 
 (c) perform the activities related to data altruism through a legally independent structure, separate from other activities it has undertaken;
 
-(d) have procedures in place to ensure compliance with the Union and national rules on the protection of personal data, including procedures for ensuring the exercise of data subjects’ rights; the entity shall in particular provide the data subjects with easily accessible tools allowing them a comprehensive view of how and for which specific purpose their personal data are shared or used by the entity and by data users;
+(ca) have procedures in place to ensure compliance with the Union and national rules on the protection of personal data, including procedures for ensuring the exercise of data subjects’ rights; the entity shall in particular provide the data subjects with easily accessible tools allowing them a comprehensive view of how and for which specific purpose their personal data are shared or used by the entity and by data users;
 
-(e) have adequate technical, legal and organisational measures in place to prevent transfer or access to non-personal data that is unlawful under Union law;
+(cb) have adequate technical, legal and organisational measures in place to prevent transfer or access to non-personal data that is unlawful under Union law;
 
-(1) General Interest Data Hubs shall only make data available to data users from the following categories:
+(1a) General Interest Data Hubs shall only make data available to data users from the following categories:
 
 (a) data users that puruse objectives of general interest;
 
 (b) data users that pursue scientific research in the general interest.
 
-(2) General Interest Data Hubs shall not use the data for which they provide services for other purposes than placing them at the disposal of data users, including where data is made available through a secure processing environment.
+(1b) General Interest Data Hubs shall not use the data for which they provide services for other purposes than placing them at the disposal of data users, including where data is made available through a secure processing environment.
 
-(3) General Interest Data Hubs shall take measures to ensure a high level of security for the storage and transmission of non-personal data;
+(1c) General Interest Data Hubs shall take measures to ensure a high level of security for the storage and transmission of non-personal data;
 
-(4) General Interest Data Hubs shall act in the data subjects’ best interest when facilitating the exercise of their rights, in particular by advising data subjects on potential data uses and standard terms and conditions attached to such uses;
+(1d) General Interest Data Hubs shall act in the data subjects’ best interest when facilitating the exercise of their rights, in particular by advising data subjects on potential data uses and standard terms and conditions attached to such uses;
 
-(5) Where General Interest Data Hubs provide tools for obtaining consent from data subjects or permissions to process data made available by data holders, they shall specify the jurisdiction or jurisdictions outside the Union in which the data use is intended to take place and provide data subjects with tools to withdraw consent and data holders with tools to withdraw permissions to process data.
+(1e) Where General Interest Data Hubs provide tools for obtaining consent from data subjects or permissions to process data made available by data holders, they shall specify the jurisdiction or jurisdictions outside the Union in which the data use is intended to take place and provide data subjects with tools to withdraw consent and data holders with tools to withdraw permissions to process data.
 
-### Article 18 Registration of General Interest Data Hubs 
+### Article 17 Registration of General Interest Data Hubs 
 
 (1) Any entity which meets the requirements of Article 16 may request to be entered in the register of General Interest Data Hubs referred to in Article 15 (1).
 
@@ -56,17 +56,17 @@ In order to qualify for registration as a General Interest Data Hub, an entity s
 
 (e) the address of the entity’s main establishment in the Union, if any, and, where applicable, any secondary branch in another Member State or that of the legal representative designated pursuant to paragraph (3);
 
-(f) a publicly accessible website where information on the entity and the activities can be found, including as a minimum the information referred to in points (a), (b), (d), (e), (g), (h), and (l) of this paragraph;
+(f) a publicly accessible website where information on the entity and the activities can be found, including as a minimum the information referred to in points (a), (b), (d), (e), (g), (h), and (ha) of this paragraph;
 
 (g) the entity’s contact persons and contact details;
 
-(h) the nature of data to be controlled, processed, or re-used by the provider, and, in case of personal data, an indication of the categories of personal data and the categories of recipients of personal data;
+(h) the purposes of general interest it intends to promote when collecting data;
 
-(i) an indication in case of processing of personal data or where the provider can reasonably assume that the combination of non-personal data under the service it provides could lead to the identification or identifiability of natural persons;
+(ha) the nature of data to be controlled, processed, or re-used by the provider, and, in case of personal data, an indication of the categories of personal data and the categories of recipients of personal data;
 
-(l) the purposes of general interest it intends to promote when collecting data;
+(hb) an indication in case of processing of personal data or where the provider can reasonably assume that the combination of non-personal data under the service it provides could lead to the identification or identifiability of natural persons;
 
-(m) any other documents which demonstrate that the requirements of Article 16 are met.
+(i) any other documents which demonstrate that the requirements of Article 16 are met.
 
 (5) Where the entity has submitted all necessary information pursuant to paragraph 4 and the competent authority for the registration of General Interest Data Hubs considers that the entity complies with the requirements of Article 16, it shall register the entity in the register of General Interest Data Hubs within twelve weeks from the date of application. The registration shall be valid in all Member States. Any registration shall be communicated to the Commission, for inclusion in the Union register of General Interest Data Hubs.
 
@@ -74,10 +74,10 @@ In order to qualify for registration as a General Interest Data Hub, an entity s
 
 (7) Any entity entered in the register of General Interest Data Hubs shall notify the competent authority for the registration of General Interest Data Hubs of any changes of the information provided pursuant to paragraph 4 within 14 calendar days from the day on which the change takes place. The competent authority shall without delay inform the Commission by electronic means of such notification.
 
-(8) Where the information provided in the application indicates that sensitive data categories could be controlled, processed or re-used, the General Interest Data Hubs shall conduct a data protection impact assessment pursuant to Article 35, and, where applicable, Article 36, of Regulation (EU) 2016/679, taking into account the possibility of using a secure processing environment provided for by the state, or deny the application.
+(7a) Where the information provided in the application indicates that sensitive data categories could be controlled, processed or re-used, the General Interest Data Hubs shall conduct a data protection impact assessment pursuant to Article 35, and, where applicable, Article 36, of Regulation (EU) 2016/679, taking into account the possibility of using a secure processing environment provided for by the state, or deny the application.
 
 
-### Article 19 Transparency requirements
+### Article 18 Transparency requirements
 
 (1) Any entity entered in the national register of General Interest Data Hubs shall keep full and accurate records concerning:
 
@@ -99,7 +99,7 @@ In order to qualify for registration as a General Interest Data Hub, an entity s
 
 (e) information on sources of revenue of the entity, in particular all revenue resulted from allowing access to the data, and on expenditure.
 
-### Article 20 Specific requirements to safeguard rights and interests of data subjects and data holders as regards their data
+### Article 19 Specific requirements to safeguard rights and interests of data subjects and data holders as regards their data
 
 (1) Any entity entered in the register of General Interest Data Hubs shall inform data subjects and data data holders prior to any processing of their data:
 
@@ -109,11 +109,11 @@ In order to qualify for registration as a General Interest Data Hub, an entity s
 
 (2) The entity shall also ensure that the data is not be used for other purposes than those of general interest for which it permits the processing.
 
-(3) The entity shall also ensure that consent from data subjects or permissions to process data made available by legal persons can be easily withdrawn.
+(2a) The entity shall also ensure that consent from data subjects or permissions to process data made available by legal persons can be easily withdrawn.
 
-(4) Where an entity entered in the register of General Interest Data Hubs provides tools for obtaining consent from data subjects or permissions to process data made available by data holders, it shall specify the jurisdiction or jurisdictions outside the Union in which the data use is intended to take place.
+(3) Where an entity entered in the register of General Interest Data Hubs provides tools for obtaining consent from data subjects or permissions to process data made available by data holders, it shall specify the jurisdiction or jurisdictions outside the Union in which the data use is intended to take place.
 
-### Article 21 Competent authorities for the registration of General Interest Data Hubs
+### Article 20 Competent authorities for the registration of General Interest Data Hubs
 
 (1) Each Member State shall designate one or more competent authorities responsible for the register of General Interest Data Hubs and for the monitoring of compliance with the requirements of this Chapter. The designated competent authorities for the registration of General Interest Data Hubs shall meet the requirements of Article 23.
 
@@ -121,7 +121,7 @@ In order to qualify for registration as a General Interest Data Hub, an entity s
 
 (3) The competent authority for the registration of General Interest Data Hubs shall undertake its tasks in cooperation with the data protection authority, where such tasks are related to processing of personal data, and with relevant sectoral bodies of the same Member State. For any question requiring an assessment of compliance with Regulation (EU) 2016/679, the competent authority shall first seek an opinion or decision by the competent supervisory authority established pursuant to that Regulation and comply with that opinion or decision.
 
-### Article 22 Monitoring of compliance
+### Article 21 Monitoring of compliance
 
 (1) The competent authority shall monitor and supervise compliance of entities entered in the register of General Interest Data Hubs with the conditions laid down in this Chapter.
 
@@ -139,13 +139,13 @@ In order to qualify for registration as a General Interest Data Hub, an entity s
 
 (6) If an entity included in the register of General Interest Data Hubs has its main establishment or legal representative in a Member State but is active in other Member States, the competent authority of the Member State of the main establishment or where the legal representative is located and the competent authorities of those other Member States shall cooperate and assist each other as necessary. Such assistance and cooperation may cover information exchanges between the competent authorities concerned and requests to take the supervisory measures referred to in this Article.
 
-### Article 23 European data altruism consent form
+### Article 22 European data altruism consent form
 
 (1) In order to facilitate the collection of data based on data altruism, the Commission may adopt implementing acts developing a European data altruism consent form, after consultation of the European Data Protection Board. The form shall allow the collection of consent across Member States in a uniform format. Those implementing acts shall be adopted in accordance with the advisory procedure referred to in Article 29 (2).
 
 (2) The European data altruism consent form shall use a modular approach allowing customisation for specific sectors and for different purposes.
 
-(3) The European data altruism consent form shall detail the specific purpose or purposes of the intended use or uses.
+(2a) The European data altruism consent form shall detail the specific purpose or purposes of the intended use or uses.
 
 (3) Where personal data are provided, the European data altruism consent form shall ensure that data subjects are able to give consent to and withdraw consent from a specific data processing operation in compliance with the requirements of Regulation (EU) 2016/679.
 
