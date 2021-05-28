@@ -1,6 +1,6 @@
 ## CHAPTER VII COMMITTEE AND DELEGATION
 
-### Article 29 Exercise of the Delegation
+### Article 28 Exercise of the Delegation
 
 (1) The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
 
@@ -14,7 +14,7 @@
 
 (6) A delegated act adopted pursuant to Article 5 (11) shall enter into force only if no objection has been expressed either by the European Parliament or by the Council within a period of three months of notification of that act to the European Parliament and to the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by three months at the initiative of the European Parliament or of the Council.
 
-### Article 30 Committee procedure
+### Article 29 Committee procedure
 
 (1) The Commission shall be assisted by a committee within the meaning of Regulation (EU) No 182/2011.
 
