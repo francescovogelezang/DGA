@@ -26,7 +26,7 @@
 
 (4) Upon notification, the provider of data sharing services may start the activity subject to the conditions laid down in this Chapter.
 
-(5) By way of derogation from paragraph 4, a provider of data sharing services shall notify the competent authority in the following cases:
+(4a) By way of derogation from paragraph 4, a provider of data sharing services shall notify the competent authority in the following cases:
 
 (a) the provider intends to provide services on the basis of, or can reasonably assume to process, any of the following: personal data, or anonymised data that was derived from personal data;
 
@@ -34,9 +34,9 @@
 
 The provider shall not start the activity before the competent authority has authorised it.
 
-(6) The notification shall entitle the provider to provide data sharing services in all Member States.
+(5) The notification shall entitle the provider to provide data sharing services in all Member States.
 
-(7) The notification shall include the following information:
+(6) The notification shall include the following information:
 
 (a) the name of the provider of data sharing services;
 
@@ -50,11 +50,11 @@ The provider shall not start the activity before the competent authority has aut
 
 (f) a description of the service the provider intends to provide and how the conditions set out in Article 11 are fulfilled;
 
-(g) the nature of data to be controlled, processed, or re-used by the provider, and, in the case of personal data, an indication of the categories of personal data and the categories of recipients of personal data;
+(fa) the nature of data to be controlled, processed, or re-used by the provider, and, in the case of personal data, an indication of the categories of personal data and the categories of recipients of personal data;
 
-(h) an indication in the case of processing of personal data or where the provider can reasonably assume that the combination of non-personal data under the service it provides could lead to the identification or identifiability of natural persons;
+(fb) an indication in the case of processing of personal data or where the provider can reasonably assume that the combination of non-personal data under the service it provides could lead to the identification or identifiability of natural persons;
 
-(i) the intended date for starting the activity, and, where applicable, the duration foreseen;
+(g) the intended date for starting the activity, and, where applicable, the duration foreseen;
 
 (7) At the request of the provider, the competent authority shall, within one week, issue a standardised declaration, confirming that the provider has submitted the notification referred to in paragraph 4.
 
@@ -82,17 +82,17 @@ The provision of data sharing services referred in Article 9 (1) shall be subjec
 
 (6) the provider shall ensure a reasonable continuity of provision of its services and, in the case of services which ensure storage of data, shall have sufficient guarantees in place that allow data holders and data users to obtain access to their data, or, in the case of providing intermediation services between data subjects and data users, pursuant to Article 9(1), point b, that allow data subjects to exercise their rights in case of insolvency of the provider;
 
-(7) the provider shall take reasonable measures to ensure interoperability with other data sharing services by means of commonly used, formal or informal, open standards in the sector in which the data sharing service providers operate;
+(6a) the provider shall take reasonable measures to ensure interoperability with other data sharing services by means of commonly used, formal or informal, open standards in the sector in which the data sharing service providers operate;
 
-(8) the provider shall put in place adequate technical, legal and organisational measures in order to prevent transfer or access to non-personal data that is unlawful under Union law;
+(7) the provider shall put in place adequate technical, legal and organisational measures in order to prevent transfer or access to non-personal data that is unlawful under Union law;
 
-(9) the provider shall take measures to ensure a high level of security for the storage and transmission of non-personal data;
+(8) the provider shall take measures to ensure a high level of security for the storage and transmission of non-personal data;
 
-(10) the provider shall have procedures in place to ensure compliance with the Union and national rules on competition;
+(9) the provider shall have procedures in place to ensure compliance with the Union and national rules on competition;
 
-(11) the provider shall have procedures in place to ensure compliance with the Union and national rules on the protection of personal data, including procedures for ensuring the exercise of data subjects’ rights; the provider shall in particular provide the data subjects with easily accessible tools, allowing them a comprehensive view of how and for which specific purpose their personal data are shared by the provider;
+(9a) the provider shall have procedures in place to ensure compliance with the Union and national rules on the protection of personal data, including procedures for ensuring the exercise of data subjects’ rights; the provider shall in particular provide the data subjects with easily accessible tools, allowing them a comprehensive view of how and for which specific purpose their personal data are shared by the provider;
 
-(12) the provider offering services to data subjects shall act in the data subjects’ best interest when facilitating the exercise of their rights, in particular by advising data subjects on potential data uses and standard terms and conditions attached to such uses;
+(10) the provider offering services to data subjects shall act in the data subjects’ best interest when facilitating the exercise of their rights, in particular by advising data subjects on potential data uses and standard terms and conditions attached to such uses;
 
 (11) where a provider provides tools for obtaining consent from data subjects or permissions to process data made available by data holders, it shall specify the jurisdiction or jurisdictions outside the Union in which the data use is intended to take place and provide data subjects with tools to withdraw consent and data holders with tools to withdraw permissions to process data.
 
@@ -130,7 +130,7 @@ This Chapter shall not apply to:
 
 (b) not-for-profit entities whose activities consist only in seeking to collect data for objectives of general interest, made available by natural or legal persons on the basis of data altruism.
 
-### Article 15 Policies for data altruism in Member States
+### Article 14a (new) Policies for data altruism in Member States
 
 (1) Member States shall define polices for data altruism and shall put in place organisational or technical arrangements, in particular to provide secure processing environments that can be made available to General Interest Data Hubs by the public sector to allow supervision, to ensure the protection of personal data and confidentiality, and to further facilitate data altruism. These policies shall in particular support data subjects in making meaningful use of their data subjects’ rights, and in making personal data related to them held by public sector bodies available voluntarily for data altruism.
 
