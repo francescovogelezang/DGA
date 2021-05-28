@@ -1,6 +1,6 @@
 ## CHAPTER V COMPETENT AUTHORITIES AND PROCEDURAL PROVISIONS
 
-### Article 24 Requirements relating to competent authorities
+### Article 23 Requirements relating to competent authorities
 
 (1) The competent authorities designated pursuant to Article 12 and Article 20 shall be legally distinct from, and functionally independent of any provider of data sharing services or entity included in the register of General Interest Data Hubs. The functions of the competent authorities designated pursuant to Articles 12 and 20 may be performed by the same entity. Member States shall be allowed either to establish one or more new entities or to rely on existing entities. 
 
@@ -14,13 +14,13 @@
 
 (6) The competent authorities of a Member State shall provide the Commission and competent authorities from other Member States, on reasoned request and without undue delay, with the information necessary to carry out their tasks under this Regulation. Where a national competent authority considers the information requested to be confidential in accordance with Union and national rules on commercial and professional confidentiality, the Commission and any other competent authorities concerned shall ensure such confidentiality.
 
-### Article 25 Right to lodge a complaint
+### Article 24 Right to lodge a complaint
 
 (1) Natural and legal persons shall have the right to lodge a complaint with the relevant national competent authority against a provider of data sharing services or an entity entered in the register of General Interest Data Hubs in relation to any matter pertaining to this Regulation.
 
 (2) The authority with which the complaint has been lodged shall inform the complainant of the progress of the proceedings and of the decision taken, and shall inform the complainant of the right to an effective judicial remedy provided for in Article 25.
 
-### Article 26 Right to an effective judicial remedy
+### Article 25 Right to an effective judicial remedy
 
 (1) Notwithstanding any administrative or other non-judicial remedies, any affected natural and legal persons shall have the right to an effective judicial remedy with regard to:
 
