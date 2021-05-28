@@ -24,7 +24,9 @@
 
 (e)  data the supply of which is an activity falling outside the scope of the public task of the public sector bodies concerned as defined by law or by other binding rules in the Member State concerned, or, in the absence of such rules, as defined in accordance with common administrative practice in that Member State, provided that the scope of the public tasks is transparent and subject to review.
 
-(3) The provisions of this Chapter do not create any obligation on public sector bodies to allow re-use of data nor do they release public sector bodies from their confidentiality obligations. This Chapter is without prejudice to Union and national law or international agreements to which the Union or Member States are parties on the protection of categories of data provided in paragraph 1. This Chapter is without prejudice to Union and national law on access to documents and to obligations of public sector bodies under Union and national law to allow the re-use of data.
+(3) Where anonymisation, aggregation, or other techniques can be applied so that the protections under paragraph 1 no longer apply, public sector bodies shall make available the data for re-use as mandated by the Open Data Directive, without prejudice to the provisions of Article 5.
+
+(4) The provisions of this Chapter do not create any obligation on public sector bodies to allow re-use of data nor do they release public sector bodies from their confidentiality obligations. This Chapter is without prejudice to Union and national law or international agreements to which the Union or Member States are parties on the protection of categories of data provided in paragraph 1. This Chapter is without prejudice to Union and national law on access to documents and to obligations of public sector bodies under Union and national law to allow the re-use of data.
 
 ### Article 4 Prohibition of exclusive arrangements
 
@@ -46,23 +48,36 @@
 
 (2) Conditions for re-use shall be non-discriminatory, proportionate and objectively justified with regard to categories of data and purposes of re-use and the nature of the data for which re-use is allowed. These conditions shall not be used to restrict competition.
 
-(3) Public sector bodies may impose an obligation to re-use only pre-processed data where such pre-processing aims to anonymize or pseudonymise personal data or delete commercially confidential information, including trade secrets.
+(3) Public sector bodies shall, in accordance with Union law impose conditions necessary to preserve protection on the grounds listed in Article 3(1) to enable re-use. Such conditions may consist of the following requirements for re-users:
 
-(4) Public sector bodies may impose obligations
+(a) to access and re-use the data within a secure processing environment provided and controlled by the public sector;
 
-(a) to access and re-use the data within a secure processing environment provided and controlled by the public sector ;
+(b) in the case of personal data, only allow access to pre-processed data that has been anonymized, or in the case of commercially confidential information, including trade secrets, and confidential statistical data, or content protected by intellectual property rights, that has been modified, aggregated, or treated by any other method to prevent unwanted disclosure;
 
-(b)  to access and re-use the data within the physical premises in which the secure processing environment is located, if remote access cannot be allowed without jeopardising the rights and interests of third parties.
+(c)  to access and re-use the data remotely within the physical premises in which the secure processing environment is located, if remote access cannot be allowed without jeopardising the rights and interests of third parties.
 
-(5) The public sector bodies shall impose conditions that preserve the integrity of the functioning of the technical systems of the secure processing environment used. The public sector body shall be able to verify any results of processing of data undertaken by the re-user and reserve the right to prohibit the use of results that contain information jeopardising the rights and interests of third parties.
+(4) In the case that re-use has been allowed according to paragraph 4, points (a) and (b), the public sector bodies shall impose conditions that preserve the integrity of the functioning of the technical systems of the secure processing environment used. The public sector body shall reserve the right to verify the process, the means, and any results of processing of data undertaken by the re-user to preserve the integrity of the protection of the data, and reserve the right to prohibit the use of results that contain information jeopardising the rights and interests of third parties. The public sector body shall make use of such a secure processing environment provided the re-user has signed a confidentiality agreement that prohibits the disclosure of any information jeopardising the rights and interests of third parties that the re- user may have acquired despite the safeguards and conditions put in place pursuant to paragraph 4.
 
-(6) Where the re-use of data cannot be granted in accordance with the obligations laid down in paragraphs 3 to 5 and there is no other legal basis for transmitting the data under Regulation (EU) 2016/679, the public sector body shall support re-users in seeking consent of the data subjects and/or permission from the legal entities whose rights and interests may be affected by such re-use, where it is feasible without disproportionate cost for the public sector. In that task they may be assisted by the competent bodies referred to in Article 7 (1).
+(5)Public sector bodies shall apply technical means that prevent the re-users from identifying any data subject and shall hold the re-users responsible for continuously assessing the risk of identification and de-anonymisation and for reporting to the public sector body concerned breaches to the confidentiality, the integrity, or the security of the data, in particular where a data breach has resulted in identification of an individual, notwithstanding any reporting obligations under Union law.
 
-(7) Re-use of data shall only be allowed in compliance with intellectual property rights. The right of the maker of a database as provided for in Article 7(1) of Directive 96/9/EC shall not be exercised by public sector bodies in order to prevent the re-use of data or to restrict re-use beyond the limits set by this Regulation.
+(6)In case of anonymised data, public sector bodies shall make a data protection impact assessment prior to granting access to the data. Where it can be reasonably assumed, or where an impact assessment indicates that the processing or subsequent combination of data could lead to identification or de- anonymisation, the public sector body shall not allow access to, or re-use of, the data.
 
-(8) When data requested is considered confidential, in accordance with Union or national law on commercial confidentiality, the public sector bodies shall ensure that the confidential information is not disclosed as a result of the re-use.
+(7) Re-use with the purpose of identifying data subjects or otherwise de- anonymising datasets shall be prohibited. Re-users shall not identify any data subjects.
 
-(9) The Commission may adopt implementing acts declaring that the legal, supervisory and enforcement arrangements of a third country:
+(8) Where the re-use of personal data cannot be granted in accordance with the obligations laid down in paragraphs 3 to 5 and there is no other legal basis for transmitting the data under Regulation (EU) 2016/679, the public sector body shall support entities requesting re-use in seeking valid consent of the data subjects, insofar as a legal basis exists for the public sector body to collect their
+consent, and/or permission from the data holders whose rights and interests may be affected by such re-use, where it is feasible without disproportionate cost for the public sector, and where there is no reason to believe that the combination of non- personal data sets would lead to the identification of data subjects. In that task they may be assisted by the competent bodies referred to in Article 7 (1).
+
+(9) Where public sector bodies make available personal data for re-use pursuant to this Article, they shall inform data subjects accordingly of this re-use and of the rights of the data subject in that regard. The public sector bodies shall support data subjects in exercising their rights, including in relation to any re- users. In that task they may be assisted by the competent bodies referred to in Article 7 (1).
+
+(10) Public sector bodies shall invite individuals, civil society and consumer protection organisations, in an open and collaborative manner, to participate in setting up processes for allowing the re- use of personal data.
+
+(11) In particular where special categories of data and sensitive sectors such as the health sector are concerned, re-use of personal data shall take into account the outcome of prior data protection impact assessments.
+
+(12) Re-use of data shall only be allowed in compliance with intellectual property rights. The right of the maker of a database as provided for in Article 7(1) of Directive 96/9/EC shall not be exercised by public sector bodies in order to prevent the re-use of data or to restrict re-use beyond the limits set by this Regulation.
+
+(12) When data requested is considered confidential, in accordance with Union or national law on commercial confidentiality, the public sector bodies shall ensure that the confidential information is not disclosed as a result of the re-use.
+
+(13) When justified by the volume of cases pursuant to paragraph 10 in specific countries, the Commission may adopt implementing acts declaring that the legal, supervisory and enforcement arrangements of a third country:
 
 (a) ensure protection of intellectual property and trade secrets in a way that is essentially equivalent to the protection ensured under Union law;
 
@@ -72,37 +87,44 @@
 
 Those implementing acts shall be adopted in accordance with the advisory procedure referred to in Article 29 (2).
 
-(10) Public sector bodies shall only transmit confidential data or data protected by intellectual property rights to a re-user which intends to transfer the data to a third country other than a country designated in accordance with paragraph 9 if the re-user undertakes: - (a) to comply with the obligations imposed in accordance with paragraphs 7 to 8 even after the data is transferred to the third country; and - (b)  to accept the jurisdiction of the courts of the Member State of the public sector body as regards any dispute related to the compliance with the obligation in point a).
+(14) Public sector bodies shall impose an obligation upon the re-user not to transfer non-personal data or data protected on grounds set out in Article 3(1), points (a), (b),or (c) to a third country other than a country designated in accordance with paragraph 9 unless the re-user undertakes: 
 
-(11) Where specific Union acts adopted in accordance with a legislative procedure establish that certain non-personal data categories held by public sector bodies shall be deemed to be highly sensitive for the purposes of this Article, the Commission shall be empowered to adopt delegated acts in accordance with Article 28 supplementing this Regulation by laying down special conditions applicable for transfers to third-countries. The conditions for the transfer to third-countries shall be based on the nature of data categories identified in the Union act and on the grounds for deeming them highly sensitive, non-discriminatory and limited to what is necessary to achieve the public policy objectives identified in the Union law act, such as safety and public health, as well as risks of re-identification of anonymized data for data subjects, in accordance with the Union’s international obligations. They may include terms applicable for the transfer or technical arrangements in this regard, limitations as regards the re-use of data in third-countries or categories of persons which are entitled to transfer such data to third countries or, in exceptional cases, restrictions as regards transfers to third-countries.
+(a) to comply with the obligations imposed in accordance with paragraphs 7 to 8 even after the data is transferred to the third country; and
 
-(12) The natural or legal person to which the right to re-use non-personal data was granted may transfer the data only to those third-countries for which the requirements in paragraphs 9 to 11 are met.
+(b)  to accept the jurisdiction of the courts of the Member State of the public sector body as regards any dispute related to the compliance with the obligation in point a).
 
-(13) Where the re-user intends to transfer non-personal data to a third country, the public sector body shall inform the data holder about the transfer of data to that third country.
+(15) Where specific Union acts adopted in accordance with a legislative procedure establish that certain non-personal data categories held by public sector bodies shall be deemed to be highly sensitive for the purposes of this Article and where their transfer to third countries may put at risk Union policy objectives, such as safety and public health, or may lead to identification of data subjects in anonymised data, the Commission shall be empowered to adopt delegated acts in accordance with Article 28 supplementing this Regulation by laying down special conditions applicable for transfers to third-countries. Those conditions shall be based on the nature of data categories identified in the Union act and on the grounds for deeming them highly sensitive, non-discriminatory and limited to what is necessary to achieve the public policy objectives identified in the Union law act, such as safety and public health, as well as risks of identification of data subjects, in accordance with the Union’s international obligations. The conditions may include terms applicable for the transfer or technical arrangements in this regard, limitations as regards the re-use of data in third-countries or categories of persons which are entitled to transfer such data to third countries or, in exceptional cases, restrictions as regards transfers to third-countries.
+
+(16) The natural or legal person to which the right to re-use non-personal data was granted may transfer the data only to those third-countries for which the requirements in paragraphs 9 to 11 are met.
+
+(17) Where the re-user intends to transfer non-personal data to a third country, the public sector body shall inform the data holder about the intention to transfer that data to that third country. Where the data can be reasonably assumed to lead to the identification or identifiability of natural persons when combined with other datasets, the data shall be treated as personal data.
+
 
 ### Article 6 Fees
 
 (1) Public sector bodies which allow re-use of the categories of data referred to in Article 3 (1) may charge fees for allowing the re-use of such data.
 
-(2) Any fees shall be non-discriminatory, proportionate and objectively justified and shall not restrict competition.
+(2) Any fees pursuant to paragraph 1 shall be non-discriminatory, proportionate and objectively justified and shall not restrict competition or inhibit the re-use of data for purposes in the general interest.
 
 (3) Public sector bodies shall ensure that any fees can be paid online through widely available cross-border payment services, without discrimination based on the place of establishment of the payment service provider, the place of issue of the payment instrument or the location of the payment account within the Union.
 
-(4)  Where they apply fees, public sector bodies shall take measures to incentivise the re-use of the categories of data referred to in Article 3 (1) for non-commercial purposes and by small and medium-sized enterprises in line with State aid rules.
+(4)  Where they apply fees, public sector bodies shall take measures to incentivise the re-use of the categories of data referred to in Article 3 (1) by non-profit organisations and for non-commercial purposes such as scientific research, and by small and medium-sized enterprises in line with State aid rules. Where possible, this should allow the re- use at lower or no cost.
 
-(5)Fees shall be derived from the costs related to the processing of requests for re-use of the categories of data referred to in Article 3 (1). The methodology for calculating fees shall be published in advance. 6. The public sector body shall publish a description of the main categories of costs and the rules used for the allocation of costs.
+(5)Fees shall be derived from the costs related to the processing of requests for re-use of the categories of data referred to in Article 3 (1). Any fees shall be limited to covering the costs incurred, such as for the preparation of data to uphold protection on the grounds listed in Article 3(1), for maintaining the secure processing environment and further costs incurred by Article 5(3), and as incurred in relation to supporting re-users seeking consent and permission as provided in Article 5(6). The criteria and methodology for calculating fees shall be published in advance. 
+
+(6) The public sector body shall publish a description of the main categories of costs and the rules used for the allocation of costs.
 
 ### Article 7 Competent bodies
 
-(1) Member States shall designate one or more competent bodies, which may be sectoral, to support the public sector bodies which grant access to the re-use of the categories of data referred to in Article 3 (1) in the exercise of that task.
+(1) For the tasks mentioned in this Article, Member States shall designate one or more competent bodies, which may be sectoral, to support the public sector bodies which grant access to the re-use of the categories of data referred to in Article 3 (1) in the exercise of that task.
 
 (2)The support provided for in paragraph 1 shall include, where necessary:
 
 (a) providing technical support by making available a secure processing environment for providing access for the re-use of data;
 
-(b)  providing technical support in the application of tested techniques ensuring data processing in a manner that preserves privacy of the information contained in the data for which re-use is allowed, including techniques for pseudonymisation, anonymisation, generalisation, suppression and randomisation of personal data;
+(b)  providing technical support for ensuring data processing in a manner that preserves privacy of the information contained in the data for which re-use is allowed;
 
-(c)  assisting the public sector bodies, where relevant, in obtaining consent or permission by re-users for re-use for altruistic and other purposes in line with specific decisions of data holders, including on the jurisdiction or jurisdictions in which the data processing is intended to take place;
+(c)  assisting the public sector bodies, where relevant to support re-users in obtaining consent for re-use of personal data or permission from data holders in line with their specific decisions of data holders, including on the jurisdiction or jurisdictions in which the data processing is intended to take place;
 
 (d)  providing public sector bodies with assistance on the adequacy of undertakings made by a re-user, pursuant to Article 5 (10).
 
