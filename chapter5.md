@@ -1,8 +1,8 @@
 ## CHAPTER V COMPETENT AUTHORITIES AND PROCEDURAL PROVISIONS
 
-### Article 24 Requirements relating to competent authorities
+### Article 23 Requirements relating to competent authorities
 
-(1) The competent authorities designated pursuant to Article 12 and Article 20 shall be legally distinct from, and functionally independent of any provider of data sharing services or entity included in the register of General Interest Data Hubs. The functions of the competent authorities designated pursuant to Articles 12 and 20 may be performed by the same entity. Member States shall be allowed either to establish one or more new entities or to rely on existing entities. 
+(1) The competent authorities designated pursuant to Article 12 and Article 20 shall be legally distinct from, and functionally independent of any provider of data intermediation services or entity included in the register of Public Interest Data Hubs. The functions of the competent authorities designated pursuant to Articles 12 and 20 may be performed by the same entity. Member States shall be allowed either to establish one or more new entities or to rely on existing entities. Member States may decide to assign the competences under this Regulation to the supervisory authorities designated under Regulation (EU) 2016/679.
 
 (2) Competent authorities shall exercise their tasks in an impartial, transparent, consistent, reliable and timely manner.
 
@@ -14,18 +14,18 @@
 
 (6) The competent authorities of a Member State shall provide the Commission and competent authorities from other Member States, on reasoned request and without undue delay, with the information necessary to carry out their tasks under this Regulation. Where a national competent authority considers the information requested to be confidential in accordance with Union and national rules on commercial and professional confidentiality, the Commission and any other competent authorities concerned shall ensure such confidentiality.
 
-### Article 25 Right to lodge a complaint
+### Article 24 Right to lodge a complaint
 
-(1) Natural and legal persons shall have the right to lodge a complaint with the relevant national competent authority against a provider of data sharing services or an entity entered in the register of General Interest Data Hubs in relation to any matter pertaining to this Regulation.
+(1) Natural and legal persons shall have the right to lodge a complaint with the relevant national competent authority against a provider of data intermediation services or an entity entered in the register of Public Interest Data Hubs in relation to any matter pertaining to this Regulation.
 
 (2) The authority with which the complaint has been lodged shall inform the complainant of the progress of the proceedings and of the decision taken, and shall inform the complainant of the right to an effective judicial remedy provided for in Article 25.
 
-### Article 26 Right to an effective judicial remedy
+### Article 25 Right to an effective judicial remedy
 
 (1) Notwithstanding any administrative or other non-judicial remedies, any affected natural and legal persons shall have the right to an effective judicial remedy with regard to:
 
 (a) a failure to act on a complaint lodged with the competent authority referred to in Articles 12 and 20;
 
-(b) decisions of the competent authorities referred to in Articles 13, 17 and 21 taken in the management, control and enforcement of the notification regime for providers of data sharing services and the monitoring of entities entered into the register of recognised data altruism organisations.
+(b) decisions of the competent authorities referred to in Articles 13, 17 and 21 taken in the management, control and enforcement of the notification regime for providers of data intermediation services and the monitoring of entities entered into the register of Public Interest Data Hub.
 
 (2) Proceedings pursuant to this Article shall be brought before the courts of the Member State in which the authority against which the judicial remedy is sought is located.
