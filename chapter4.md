@@ -1,6 +1,6 @@
 ## CHAPTER IV DATA ALTRUISM
 
-### Article 16 Register of General Interest Data Hubs
+### Article 15 Register of General Interest Data Hubs
 
 (1) Each competent authority for the registration of General Interest Data Hubs designated pursuant to Article 20 shall keep a public register of General Interest Data Hubs.
 
@@ -8,7 +8,7 @@
 
 (3) An entity registered in the register in accordance with Article 16 may refer to itself as a ‘General Interest Data Hub’ in its written and spoken communication.
 
-### Article 17 General Interest Data Hubs
+### Article 16 General Interest Data Hubs
 
 In order to qualify for registration as a General Interest Data Hub, an entity shall:
 
@@ -36,7 +36,7 @@ In order to qualify for registration as a General Interest Data Hub, an entity s
 
 (5) Where General Interest Data Hubs provide tools for obtaining consent from data subjects or permissions to process data made available by data holders, they shall specify the jurisdiction or jurisdictions outside the Union in which the data use is intended to take place and provide data subjects with tools to withdraw consent and data holders with tools to withdraw permissions to process data.
 
-### Article 18 Registration of General Interest Data Hubs 
+### Article 17 Registration of General Interest Data Hubs 
 
 (1) Any entity which meets the requirements of Article 16 may request to be entered in the register of General Interest Data Hubs referred to in Article 15 (1).
 
@@ -77,7 +77,7 @@ In order to qualify for registration as a General Interest Data Hub, an entity s
 (8) Where the information provided in the application indicates that sensitive data categories could be controlled, processed or re-used, the General Interest Data Hubs shall conduct a data protection impact assessment pursuant to Article 35, and, where applicable, Article 36, of Regulation (EU) 2016/679, taking into account the possibility of using a secure processing environment provided for by the state, or deny the application.
 
 
-### Article 19 Transparency requirements
+### Article 18 Transparency requirements
 
 (1) Any entity entered in the national register of General Interest Data Hubs shall keep full and accurate records concerning:
 
@@ -99,7 +99,7 @@ In order to qualify for registration as a General Interest Data Hub, an entity s
 
 (e) information on sources of revenue of the entity, in particular all revenue resulted from allowing access to the data, and on expenditure.
 
-### Article 20 Specific requirements to safeguard rights and interests of data subjects and data holders as regards their data
+### Article 19 Specific requirements to safeguard rights and interests of data subjects and data holders as regards their data
 
 (1) Any entity entered in the register of General Interest Data Hubs shall inform data subjects and data data holders prior to any processing of their data:
 
@@ -113,7 +113,7 @@ In order to qualify for registration as a General Interest Data Hub, an entity s
 
 (4) Where an entity entered in the register of General Interest Data Hubs provides tools for obtaining consent from data subjects or permissions to process data made available by data holders, it shall specify the jurisdiction or jurisdictions outside the Union in which the data use is intended to take place.
 
-### Article 21 Competent authorities for the registration of General Interest Data Hubs
+### Article 20 Competent authorities for the registration of General Interest Data Hubs
 
 (1) Each Member State shall designate one or more competent authorities responsible for the register of General Interest Data Hubs and for the monitoring of compliance with the requirements of this Chapter. The designated competent authorities for the registration of General Interest Data Hubs shall meet the requirements of Article 23.
 
@@ -121,7 +121,7 @@ In order to qualify for registration as a General Interest Data Hub, an entity s
 
 (3) The competent authority for the registration of General Interest Data Hubs shall undertake its tasks in cooperation with the data protection authority, where such tasks are related to processing of personal data, and with relevant sectoral bodies of the same Member State. For any question requiring an assessment of compliance with Regulation (EU) 2016/679, the competent authority shall first seek an opinion or decision by the competent supervisory authority established pursuant to that Regulation and comply with that opinion or decision.
 
-### Article 22 Monitoring of compliance
+### Article 21 Monitoring of compliance
 
 (1) The competent authority shall monitor and supervise compliance of entities entered in the register of General Interest Data Hubs with the conditions laid down in this Chapter.
 
@@ -139,7 +139,7 @@ In order to qualify for registration as a General Interest Data Hub, an entity s
 
 (6) If an entity included in the register of General Interest Data Hubs has its main establishment or legal representative in a Member State but is active in other Member States, the competent authority of the Member State of the main establishment or where the legal representative is located and the competent authorities of those other Member States shall cooperate and assist each other as necessary. Such assistance and cooperation may cover information exchanges between the competent authorities concerned and requests to take the supervisory measures referred to in this Article.
 
-### Article 23 European data altruism consent form
+### Article 22 European data altruism consent form
 
 (1) In order to facilitate the collection of data based on data altruism, the Commission may adopt implementing acts developing a European data altruism consent form, after consultation of the European Data Protection Board. The form shall allow the collection of consent across Member States in a uniform format. Those implementing acts shall be adopted in accordance with the advisory procedure referred to in Article 29 (2).
 
